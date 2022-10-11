@@ -1,3 +1,4 @@
+
 #include<studio.h>
 int main()
 {
@@ -7,3 +8,7 @@ b=20;
 c=a+b;
 printf("addition of two numbers",c);
 }
+#this code belongs to insurance branch
+a=a+b
+b=a-b
+
